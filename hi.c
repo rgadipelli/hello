@@ -2,4 +2,5 @@
 main()
 {
   printf("iam the new file");
+  scanf("%d",&a);
 }
